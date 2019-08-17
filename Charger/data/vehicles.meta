@@ -5,10 +5,10 @@
 <residentAnims />
 <InitDatas>
     <Item>
-	  <modelName>charger</modelName>
-	  <txdName>charger</txdName>
+	  <modelName>hpcharger</modelName>
+	  <txdName>hpcharger</txdName>
 	  <handlingId>buffalo</handlingId>
-	  <gameName>charger</gameName>
+	  <gameName>hpcharger</gameName>
 	  <vehicleMakeName>DODGE</vehicleMakeName>
 	  <expressionDictName>null</expressionDictName>
 	  <expressionName>null</expressionName>
